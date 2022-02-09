@@ -23,9 +23,118 @@
     padding: 1px;
 }
 
+table{
+    width: 800px;
+    margin:auto;
+    table-layout: fixed;
+    text-align:center;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    
+}
+
+table,th,td{
+    border:1px solid black;
+}
+
+.btn1{
+width:200px;
+height:30px;
+background-color:yellow;
+color: black;
+cursor: pointer;
+}
+.btn2{
+width:200px;
+height:30px;
+background-color:green;
+color: white;
+cursor: pointer;
+}
+
+.btn3{
+width:200px;
+height:30px;
+background-color:gray;
+color: white;
+cursor: pointer;
+}
+
+.btn4{
+width:200px;
+height:30px;
+background-color:orange;
+color: black;
+cursor: pointer;
+}
+
+.btn5{
+width:200px;
+height:30px;
+background-color:white;
+color: black;
+cursor: pointer;
+}
+.btn6{
+width:200px;
+height:30px;
+background-color:red;
+color: white;
+cursor: pointer;
+}
+
+.btn7{
+width:200px;
+height:30px;
+background-color:royalblue;
+color: white;
+cursor: pointer;
+}
+.btn8{
+width:200px;
+height:30px;
+background-color:pink;
+color: black;
+cursor: pointer;
+}
+
+.btn9{
+width:200px;
+height:30px;
+background-color:purple;
+color: white;
+cursor: pointer;
+}
 
 
 
+@media screen and (max-width:600px){
+    .para{
+        height:150px;
+        width:400px
+    }
+    .container{
+        margin-top:900px;
+        flex-direction:column;
+    }
+    .h1{
+        width:400px;
+        height:150px
+    }
+    .audio{
+        margin-left:80px
+    }
+    .box{
+        height:200px;
+        width:600px
+    }
+    .image1{
+        margin-left:-120px;
+        width:150px;
+        height:125px
 
+    }
 
-
+    
+}
