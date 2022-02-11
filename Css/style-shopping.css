@@ -1,0 +1,85 @@
+
+.product-card{
+    box-shadow: 0px 0px 10px rgb(161, 158, 158);
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    transition: 0.80;
+    border: 1px solid black;
+}
+.product-card:hover{
+    box-shadow: 0px 0px 10px rgb(161, 158, 158);
+    padding: 12px;
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color: rgb(252, 249, 245);
+    transform: 0.85;
+}
+        
+.product-img{
+    width: 180px;
+    height:200px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.off{
+    color: rgb(80, 202, 80);
+    font-size: 18px;
+}
+.button{
+    border-radius: 15px;
+}
+.trolly{
+    height: 30px;
+    width:30px;
+}
+.icon{
+    border-radius: 15%;
+  width:80px;
+  padding: 5px;
+}
+.product-name{
+    background-color: #4158D0;
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+}
+.background-shop{
+    background-image: url("./../assets/shopping/Shopping-imgs/bgshop.webp");
+    background-repeat: no-repeat;
+background-size: cover;
+}
+.shopping{
+    padding: 20px;
+}
+.shoppingicon{
+    background-size: cover;
+    width:auto;
+}
+.shopping-product{
+    width:70px;
+    height:70px;
+    padding:10px;
+}
+.fashion-card{
+    height:200px;
+    display: block;
+    width:400px;
+    padding: 5px;
+box-shadow: 0px 0px 15px rgb(78, 12, 12);
+    border-radius: 30px;
+    transition: 0.85;
+}
+.fashion-card:hover{
+    height:200px;
+    display: block;
+    width:410px;
+    padding: 5px;
+box-shadow: 0px 0px 15px rgb(223, 42, 42);
+    border-radius: 30px;
+    transform:0.80 ;
+}
+.happynavratri{
+    width: 100%;
+    height:300px;
+}
