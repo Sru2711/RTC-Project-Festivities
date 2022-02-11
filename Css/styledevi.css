@@ -13,9 +13,7 @@
      width: 350px;
      background-color: aliceblue;
      
-
 }
-
 .name{
     background-image: url("./../assets/Nvratri-devis/image/Happy-Navratri.jpg");
     height: 500px;
@@ -23,4 +21,9 @@
 }
 .cantainer{
     background-color:rgb(231, 215, 212);
+}
+.img-devi{
+    background-image:url("./../assets/Nvratri-devis/Ma-shailaputri/navratri-first-day.jpg") ;
+    height: 500px;
+    padding: 25px;
 }
