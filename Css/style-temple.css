@@ -1,6 +1,6 @@
 .temple-name{
     height: 400px;
-    background-image:url("./../Temple/tem-img/back-img.webp");
+    background-image:url("./../assets/Temple/tem-img/back-img.webp");
     background-size: cover;
     color: white;
     padding: 20px;
