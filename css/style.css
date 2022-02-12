@@ -1,5 +1,5 @@
 body{
-    background-image:url("./../assets/Images/bgdurga.jpg");
+    background-image:url("./../assets/images/bgdurga.jpg");
     background-size:cover;
 }
 .audio{
@@ -34,8 +34,7 @@ body{
     width:400px;
     display:block;
     margin-left:auto;
-    margin-right:auto;
-    
+    margin-right:auto;   
 }
 .shlok{
     font-size:35px;
