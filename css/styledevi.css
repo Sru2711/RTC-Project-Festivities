@@ -8,24 +8,23 @@
     margin-top: 5px;
     border-radius: 15px;
     box-shadow: 0px 0px 10px black;
-     width: 340px;
+    justify-content:space-evenly;
+    width: 300px;
      background-color: aliceblue;
      display:block;
     margin-left:auto;
     margin-right:auto;
+    margin:10px;
+
      
 }
 .name{
     width: 100%;
-     width: 350px;
+    height: 350px;
      background-color: aliceblue;
      
 }
-.name{
-    background-image: url("./../assets/Nvratri-devis/image/Happy-Navratri.jpg");
-    height: 500px;
-    color: white;
-}
+
 .cantainer{
     background-color:rgb(231, 215, 212);
 }
@@ -70,7 +69,8 @@ font-size: 60px;
     padding: 5px;
     background-color: #FFE53B;
 background-image: linear-gradient(147deg, #FFE53B 0%, #FF2525 74%);
-    background-image:url("./../assets/Nvratri-devis/Ma-shailaputri/navratri-first-day.jpg") ;
-    height: 500px;
+
+
+    
     padding: 25px;
 }
