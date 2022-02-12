@@ -4,11 +4,10 @@
     padding: 5px;
 }
 .devicard{
+
     margin-top: 5px;
     border-radius: 15px;
     box-shadow: 0px 0px 10px black;
-     margin: 10px;
-     height: 620px;
      width: 340px;
      background-color: aliceblue;
      display:block;
@@ -18,6 +17,12 @@
 }
 .name{
     width: 100%;
+     width: 350px;
+     background-color: aliceblue;
+     
+}
+.name{
+    background-image: url("./../assets/Nvratri-devis/image/Happy-Navratri.jpg");
     height: 500px;
     color: white;
 }
@@ -65,5 +70,7 @@ font-size: 60px;
     padding: 5px;
     background-color: #FFE53B;
 background-image: linear-gradient(147deg, #FFE53B 0%, #FF2525 74%);
-
+    background-image:url("./../assets/Nvratri-devis/Ma-shailaputri/navratri-first-day.jpg") ;
+    height: 500px;
+    padding: 25px;
 }
