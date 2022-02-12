@@ -1,22 +1,18 @@
 .img-user{
-    height: 300px;
-    width: 300px;
-    padding: 5px;
+    height: 250px;
+    width:250px;
+    border-radius:10px;
+    
 }
 .devicard{
 
     margin-top: 5px;
-    border-radius: 15px;
+    border-radius: 5px;
     box-shadow: 0px 0px 10px black;
     justify-content:space-evenly;
-    width: 300px;
      background-color: aliceblue;
      display:block;
-    margin-left:auto;
-    margin-right:auto;
-    margin:10px;
-
-     
+     margin:5px;     
 }
 .name{
     width: 100%;
@@ -73,4 +69,7 @@ background-image: linear-gradient(147deg, #FFE53B 0%, #FF2525 74%);
 
     
     padding: 25px;
+}
+.devi-description{
+    min-height:180px;
 }
