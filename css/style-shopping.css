@@ -91,3 +91,8 @@ box-shadow: 0px 0px 15px rgb(223, 42, 42);
     height: 100px;
     width: 150px;
 }
+@media (min-width: 1025px) {
+    .h-custom {
+    height: 100vh !important;
+    }
+    }
