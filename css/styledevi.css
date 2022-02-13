@@ -46,7 +46,7 @@
 }
 .img-card:hover{
     height: 350px;
-    width: 350px;
+    width: 355px;
     padding: 10px;
     border-radius: 50%;
     box-shadow: 0px 0px 5px black;
@@ -54,23 +54,19 @@
     margin-left:auto;
     margin-right:auto;
     margin-top: 10px;
-    transform: rotate3d(180);
+
 
 }
 .devi-name{
     background-color: #FF9A8B;
 background-image: linear-gradient(90deg, #FF9A8B 0%, #FF6A88 55%, #FF99AC 100%);
-
 font-size: 60px;
 
 }
 .days{
     padding: 5px;
     background-color: #FFE53B;
-background-image: linear-gradient(147deg, #FFE53B 0%, #FF2525 74%);
-
-
-    
+background-image: linear-gradient(147deg, #FFE53B 0%, #FF2525 74%); 
     padding: 25px;
 }
 .devi-description{
